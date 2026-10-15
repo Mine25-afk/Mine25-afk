@@ -8,16 +8,16 @@ Soy **Especialista en Desarrollo de Sowftware**. Cuento con 2 años de experienc
 - 📍 **Ubicación**: Córtes - Honduras  
 - 💼 **Puesto/trabajo actual**: 
 SMART INNOVATION SYSTEM
-- 🌱 **Aprendizaje actual**: Desarrollo de API con ASP. NET CORE , desarrollo frontend con
-C# y DevExpress
+- 🌱 **Aprendizaje actual**: Desarrollo de API con ASP. NET CORE, NEST JS , desarrollo frontend con
+Angular, C# y DevExpress
 
 ## Habilidades y Tecnologías
 
-- **Bases de Datos**: SQL Server, MySql.   
+- **Bases de Datos**: SQL Server, MySql, MongoDB.   
 - **Desarrollo WEB**: 
 C#, ASP. NET Framework, Patrón MVC, ASP. Net Core, Javascript/Jquery, Ajax, PHP, HTML5, CSS3, React, Angular, Boostrap    
 - **Control de Versiones**: Git, GitHub  
-- **Desarrollo de API**:ASP. Net Core 
+- **Desarrollo de API**:ASP. Net Core, NEST JS
 - **Desarrollo de Escritorio**:C#, DevExpress
 - **Desarrollo de APP**:Flutter,
 Ionic
